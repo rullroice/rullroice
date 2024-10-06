@@ -24,9 +24,6 @@ Hi, I'm Raúl, a Computer Engineering student 🚀 from Chile. Besides programmi
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/06c0697d83f8f1579a11cf3b0e907d5f03adcdc9/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/06c0697d83f8f1579a11cf3b0e907d5f03adcdc9/topics/netbeans/netbeans.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudio/visualstudio.png"></code>
 
 ![Raúl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rullroice&show_icons=true&theme=radical)
 
