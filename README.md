@@ -9,7 +9,7 @@
 
 <br/>
 
-Hi, I'm Raúl, a Computer Engineering student 🚀 from Chile. Besides programming, I enjoy playing video games and taking care of my plants in my personal garden 🌱. I'm always doing my best, learning, and improving every day.
+Hi, I'm Raúl, a Computer Engineering student from Chile. Besides programming, I enjoy playing video games and taking care of my plants in my personal garden 🌱. I'm always doing my best, learning, and improving every day.
 
 #### Skills and Technologies:
 ![](https://img.shields.io/badge/Java-%7C-blue) ![](https://img.shields.io/badge/Visual%20Studio-%7C-orange) ![](https://img.shields.io/badge/Python-%7C-yellow) ![](https://img.shields.io/badge/NetBeans-%7C-green) ![](https://img.shields.io/badge/Android%20Studio-%7C-blueviolet)
