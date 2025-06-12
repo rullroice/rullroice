@@ -61,9 +61,6 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-    ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f.svg?style=for-the-badge&logo=openai&logoColor=white)
-    ![Tabnine](https://img.shields.io/badge/Tabnine-1f1f1f.svg?style=for-the-badge&logo=tabnine&logoColor=white)
-    ![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 
 <br>
