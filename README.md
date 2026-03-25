@@ -116,7 +116,7 @@
 
 <li>
   <a href="mailto:raul.dev19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-raul.ibarraurizar1@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/email-raul.dev19@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;">
   </a>
 </li>
 	
